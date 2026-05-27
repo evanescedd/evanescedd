@@ -7,12 +7,12 @@
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/b7396f4b-998e-4a14-9e64-7577bf6f4d5f"
-           width="250"
+           width="450"
            alt="IMG_1096" />
     </td>
     <td>
 
-[Atabook](https://yip.su/2ddfa7.pdf)
+# [Atabook](https://yip.su/2ddfa7.pdf)
 
    </td>
   </tr>

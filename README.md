@@ -3,3 +3,8 @@
  [Atabook](https://yip.su/2ddfa7.pdf)
  
  [strawpage (WIP)](https://yip.su/2dVia7)
+
+
+<img width="2048" height="2048" alt="IMG_1096" src="https://github.com/user-attachments/assets/b7396f4b-998e-4a14-9e64-7577bf6f4d5f" />
+
+
